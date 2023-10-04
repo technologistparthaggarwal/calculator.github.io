@@ -1,0 +1,44 @@
+#container{
+height:430px;
+width: 525px;
+background-color:#E2E0E0;
+margin:  6rem 0 0 25rem;
+}           
+#heading{
+  background-color: black;
+  color: white;
+}
+.mg-lt{
+  margin-left: 9rem;
+}
+#display {
+  height: 75px;
+  width: 32vw;
+  border: 3px solid black;
+  margin:-12px -13px 21px 10px;
+  border-radius: 21px;
+  font-size: 2.1rem;
+  
+} 
+#keypad{
+  /* border: 3px solid black; */
+  height: 273px;
+  width: initial;
+}
+.ac{
+  height: 51px;
+  width: 120px;
+  margin: 1px -13px 2px 13px;
+  border: none;
+  font-size: 21px;
+}
+#zero{
+  height: 51px;
+  width: 244px;
+  margin: 1px -13px 2px 13px;
+  border: none;
+  font-size: 21px;
+}
+.bg-red{
+  background-color: red;
+}
